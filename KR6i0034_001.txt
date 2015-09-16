@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:16.977556
+#+DATE: 2015-08-30 20:08:18.201418
 #+TITLE: 佛說彌勒下生成佛經
 #+PROPERTY: CBETA_ID T14n0455
 #+PROPERTY: ID KR6i0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 455
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0034_T_001-0426a> 
 #+PROPERTY: JUAN 1
 ¶
-No.455[Nos.453,454]¶
-
- 佛說彌勒下生成佛經¶
+No. 455 [Nos. 453, 454]¶
+佛說彌勒下生成佛經¶
 ¶
 唐三藏法師義淨奉　制譯¶
 
@@ -453,6 +452,4 @@ No.455[Nos.453,454]¶
 信受，頂戴奉行。¶
 佛說彌勒下生成佛經¶
 
-按《開元錄》，《彌勒下生經》前後六譯，三存三¶
-失，而此本亦在三存之一也，則宋藏無¶
-此經者，失之耳，今得於丹藏而編入之。
+按《開元錄》，《彌勒下生經》前後六譯，三存三失，而此本亦在三存之一也，則宋藏無此經者，失之耳，今得於丹藏而編入之。
